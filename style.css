@@ -1,0 +1,18 @@
+.center {
+
+    text-align: center;
+    color: aqua;  
+    
+}
+body{
+    background-color: palevioletred
+}
+
+a:hover{
+    color: peru ; 
+    font-size: 50px
+}
+
+h1{
+    background-color: darkmagenta
+}
