@@ -1,9 +1,47 @@
 .center {
 
     text-align: center;
-    color: aqua;  
+    color: red;  
     
 }
 body{
-    background-color: aqua
+    background-color: blueviolet
 }
+*{
+    margin: auto;
+}
+
+p{
+    margin: 30px;
+    border: 2px solid white;
+    padding: 34px;
+}
+
+h1{
+    background-color:orange;
+    text-align: center;
+}
+
+body{
+    background-color: red;
+    text-align: center;
+}
+
+#miSuperTitulo{
+    font-size: 40px;
+    padding: 15px;
+}
+
+.hiper{
+    display: inline;
+    padding: 30px;
+    margin-bottom: 5    0px;
+}
+
+.imagenesIntro{
+    width: 290px;
+    display: block;1
+0    margin-top: 30px ;
+}
+
+a:hover{
